@@ -29,6 +29,6 @@
 
 ========================================================================
 
-![allure1](https://raw.githubusercontent.com/Nelly1555/SeleniumAptekaEconom/main/AllureReport1.jpg)
+![allure1](https://raw.githubusercontent.com/Nelly1555/SeleniumAptekaEconom/main/screenShots/AllureReport1.jpg)
 
-![allure1](https://raw.githubusercontent.com/Nelly1555/SeleniumAptekaEconom/main/AllureReport2.jpg)
+![allure1](https://raw.githubusercontent.com/Nelly1555/SeleniumAptekaEconom/main/screenShots/AllureReport2.jpg)
